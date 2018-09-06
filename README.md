@@ -1,7 +1,7 @@
 # Sword_Html
 ---
 ### 春风不识字，何故乱翻书。
-##学习列表
+## 学习列表
 - JavaScript
 - Html Dom
 - jQuery
